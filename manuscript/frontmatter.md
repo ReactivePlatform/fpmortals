@@ -27,19 +27,22 @@ comprehensive Functional Programming framework for Scala.
 本书所是用的函数式库是 [Scalaz 7.2](https://github.com/scalaz/scalaz) ————最受欢迎、最稳定、最有原则性也是最全面的 Scala 
 函数式编程框架。
 
->译者注：Scala 生态中另一个非常不错的函数式库是 [Cats](https://github.com/typelevel/cats)，感兴趣的读者可以自行查阅。
-
 This book is designed to be read from cover to cover, in the order presented,
 with a rest between chapters. Earlier chapters encourage coding styles that we
 will later discredit: similar to how we learn Newton's theory of gravity as
 children, and progress to Riemann / Einstein / Maxwell if we become students of
 physics.
 
+推荐按章节顺序阅读此书，并在读完每一章后留一点时间进行思考。我们在前面的章节中推荐了本书后面将不再推崇编码风格：
+类似于我们在孩提时代学习了牛顿的引力理论，而当我们研读物理学时，学习黎曼/爱因斯坦/麦克斯韦的理论时一样。
+
 A computer is not necessary to follow along, but studying the Scalaz source code
 is encouraged. Some of the more complex code snippets are available with [the
 book's source code](https://github.com/fommil/fpmortals/) and those who want practical exercises are encouraged to
 (re-)implement Scalaz (and the example application) using the partial
 descriptions presented in this book.
+
+阅读本书不需要电脑常开，但是我们鼓励学习 Scalaz 的源码。一些复杂的代码片段可以从本书的[源码仓库](https://github.com/fommil/fpmortals/) 中下载, 对于想要实战练习的读者，建议使用本书中呈现的内容（重新）实现 Scalaz （以及附带的例子程序）。
 
 We also recommend [The Red Book](https://www.manning.com/books/functional-programming-in-scala) as further reading. It teaches how to write an FP
 library in Scala from first principles.
