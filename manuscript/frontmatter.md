@@ -24,7 +24,7 @@ writing a web application.
 This book uses [Scalaz 7.2](https://github.com/scalaz/scalaz), the most popular, stable, principled and
 comprehensive Functional Programming framework for Scala.
 
-本书所是用的函数式库是[Scalaz 7.2](https://github.com/scalaz/scalaz)————最受欢迎、最稳定、最有原则性也是最全面的 Scala 
+本书所是用的函数式库是 [Scalaz 7.2](https://github.com/scalaz/scalaz) ————最受欢迎、最稳定、最有原则性也是最全面的 Scala 
 函数式编程框架。
 
 >译者注：Scala 生态中另一个非常不错的函数式库是 [Cats](https://github.com/typelevel/cats)，感兴趣的读者可以自行查阅。
