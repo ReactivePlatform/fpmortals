@@ -12,11 +12,14 @@
 
 
 # About This Book
+# 关于本书
 
 This book is for the typical Scala developer, probably with a Java background,
 who is both sceptical and curious about the **Functional Programming** (FP)
 paradigm. This book justifies every concept with practical examples, including
 writing a web application.
+
+本书是为典型的 Scala 开发者（也许具备 Java 开发背景）准备的，他们对**函数式编程（Functional Programming）**(简称FP)又怀疑又好奇。通过实例（包括编写一个Web应用程序），本书为每个概念的合理性都进行了正名。
 
 This book uses [Scalaz 7.2](https://github.com/scalaz/scalaz), the most popular, stable, principled and
 comprehensive Functional Programming framework for Scala.
